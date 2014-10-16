@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cgg:home|Door43 (cgg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cgg|d43-cgg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cgg/archive/master.zip|d43-cgg.zip]]
+
+**Recent Changes**
+{{changes>ns = cgg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cgg|Ethnologue data]]
+
